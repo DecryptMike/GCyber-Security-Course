@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cyber Security Logo.png" alt="Cyber Logo" width="1100" height="300" />
+  <img src="Cyber Security Logo.png" alt="Cyber Logo" width="1100" height="200" />
 </p>
 
 <h2 align="center">
