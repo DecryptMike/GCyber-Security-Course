@@ -6,7 +6,11 @@
     🛡️ Google Cybersecurity Professional Certificate Course Activities
 </h3>
 
-Welcome to my Google Cybersecurity Professional Certificate course activity repository, created under (**Decrypt Mike**). This repository showcases my understanding of core cybersecurity principles through real-world scenarios, analysis, and hands-on case study responses. Organized by chapters, it features dedicated sections for portfolio activities and excludes practice folders. This repository is intended strictly for reference and personal development — not for collaboration or reuse.
+---
+
+<p style="text-align: center;">
+  Welcome to my Google Cybersecurity Professional Certificate course activity repository, created under (<strong>Decrypt Mike</strong>). This repository showcases my understanding of core cybersecurity principles through real-world scenarios, analysis, and hands-on case study responses. Organized by chapters, it features dedicated sections for portfolio activities and excludes practice folders. This repository is intended strictly for reference and personal development — not for collaboration or reuse.
+</p>
 
 ---
 
