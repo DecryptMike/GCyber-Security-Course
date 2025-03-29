@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cyber Security Logo.png" alt="Cyber Logo" style="max-width: 100%; height: auto;"/>
+  <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
 
 <h2 align="center">
