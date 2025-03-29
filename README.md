@@ -2,11 +2,9 @@
   <img src="Cyber Security Logo.png" alt="Cyber Logo" style="width: 1100px; height: 600;">
 </p>
 
-<h3 align="center">
+<h2 align="center">
     🛡️ Google Cybersecurity Professional Certificate Course Activities
-</h3>
-
----
+</h2>
 
 <p style="text-align: center;">
   Welcome to my Google Cybersecurity Professional Certificate course activity repository, created under (<strong>Decrypt Mike</strong>). This repository showcases my understanding of core cybersecurity principles through real-world scenarios, analysis, and hands-on case study responses. Organized by chapters, it features dedicated sections for portfolio activities and excludes practice folders. This repository is intended strictly for reference and personal development — not for collaboration or reuse.
