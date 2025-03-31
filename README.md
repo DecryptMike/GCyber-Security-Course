@@ -34,7 +34,7 @@ The repository follows a chapter-based directory format:
 
 - **Chapters 1–7**  
 Each folder contains documents labeled in the format:  
-`Course Name - Chapter - Module Activity`
+`Course Name - Chapter - Module`
 
 These documents include my responses, solutions, and analysis for each respective topic or activity covered in the course.
 
