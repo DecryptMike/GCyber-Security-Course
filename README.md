@@ -32,7 +32,7 @@ This repository serves as a structured collection of my progress and solutions f
 
 The repository follows a chapter-based directory format:
 
-- **Chapters 1–7**  
+- **Chapters 1 – 7**  
 Each folder contains documents labeled in the format:  
 `Course Name - Chapter - Module`
 
