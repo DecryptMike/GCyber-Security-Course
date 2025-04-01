@@ -68,8 +68,7 @@ These are the primary tools and technologies I utilized throughout the course an
 
 ## 📄 License
 
-This repository is licensed under the **MIT License**, making it freely accessible for personal learning and reference.  
-While others are welcome to explore and gain insight, **collaboration, redistribution, or reuse of this content is strictly prohibited**.
+"This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br> However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes."
 
 ---
 
