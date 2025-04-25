@@ -1,7 +1,8 @@
-[![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/) 
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=datadog)](https://github.com/DecryptMike/GCyber-Security-Course) 
-[![CLI Tools](https://img.shields.io/badge/Tools-Command_Line-green?style=for-the-badge&logo=gnubash)](https://github.com/DecryptMike/GCyber-Security-Course) 
-[![Security Labs](https://img.shields.io/badge/Labs-Practical_Security-yellow?style=for-the-badge&logo=github)](https://github.com/DecryptMike/GCyber-Security-Course)
+![Built With](https://img.shields.io/badge/Built%20With-Python%203.10-informational?style=flat&logo=python&logoColor=white)
+![Course](https://img.shields.io/badge/Certificate-Google%20Cybersecurity-blue?style=flat&logo=google&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat)
+![Skills](https://img.shields.io/badge/Tools-Command%20Line-green?style=flat&logo=gnubash&logoColor=white)
+![Practice](https://img.shields.io/badge/Labs-Practical%20Security-yellow?style=flat)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
