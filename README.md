@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/) 
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=datadog)](https://github.com/DecryptMike/GCyber-Security-Course) 
+[![CLI Tools](https://img.shields.io/badge/Tools-Command_Line-green?style=for-the-badge&logo=gnubash)](https://github.com/DecryptMike/GCyber-Security-Course) 
+[![Security Labs](https://img.shields.io/badge/Labs-Practical_Security-yellow?style=for-the-badge&logo=github)](https://github.com/DecryptMike/GCyber-Security-Course)
+
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
@@ -80,3 +85,12 @@ Personal <br>
 
 Professional <br>
 [Decrypt Mike LinkedIn](https://www.linkedin.com/in/h4ck3rbyt3s) 
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
+ <img src="https://img.shields.io/badge/Inspired%20By-Google%20Cybersecurity%20Certificate-blue?style=for-the-badge&logo=google"/>
+</p>
+
