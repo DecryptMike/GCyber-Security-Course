@@ -3,7 +3,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat)
 ![Skills](https://img.shields.io/badge/Tools-Command%20Line-green?style=flat&logo=gnubash&logoColor=white)
 ![Practice](https://img.shields.io/badge/Labs-Practical%20Security-yellow?style=flat)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
